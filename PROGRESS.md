@@ -7,6 +7,6 @@
 | 24/11 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | 8 min |
 | 24/11 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | ✅ Solved | 12 min |
 | 24/11 | Longest Common Prefix | Arrays & Strings | Easy | ✅ Solved | 12 min |
-| 24/11 | Binary Search | Basic Algorithms | Easy | ⬜ Pending | - |
-| 24/11 | Move Zeroes | Basic Algorithms | Easy | ⬜ Pending | - |
-| 24/11 | Valid Parentheses | Stacks | Easy | ⬜ Pending | - |
+| 24/11 | Binary Search | Basic Algorithms | Easy | ✅ Solved | 10 min |
+| 24/11 | Move Zeroes | Basic Algorithms | Easy | ✅ Solved | 10 min |
+| 24/11 | Valid Parentheses | Stacks | Easy | ✅ Solved | 15 min |
